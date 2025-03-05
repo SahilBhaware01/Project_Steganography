@@ -1,0 +1,1 @@
+https://storage.googleapis.com/cv_project/processed-celeba-small.zip

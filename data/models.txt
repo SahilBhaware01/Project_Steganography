@@ -1,0 +1,3 @@
+https://storage.googleapis.com/cv_project/Model/discriminator_model_nlp_latest.h5
+https://storage.googleapis.com/cv_project/Model/e_models_nlp_1.h5
+https://storage.googleapis.com/cv_project/Model/generator_model_nlp_latest.h5

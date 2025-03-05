@@ -1,0 +1,13 @@
+Instructions for Building and Running the Project
+
+1.Download the Dataset using the provided link 
+2.Run the Project Scripts in the specified sequence to build and run the project 
+	a. DCGAN: "CV_Final_Project_Part_1_Training_GAN_Model.ipynb"
+	>Train the DCGAN model to generate stego images.
+	b. Extractor: "CV_Final_Project_Part_2_Generate_img_Sender_End"
+	>Train the extractor model to decode hidden information.
+	c. Encoder: "CV_Final_Project_Part_3_Training_Extractor_Model.ipynb"
+	>Encode the secret message into noise vectors.
+	d. Decoder: "CV_Final_Project_Part_4_Extract_Msg_Receiver_End.ipynb"
+	>Decode the extracted information to retrieve the original message.
+3. Training the DCGAN and extractor can be skipped by using the pre-trained models provided. 
